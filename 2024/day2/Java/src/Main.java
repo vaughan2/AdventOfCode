@@ -119,5 +119,5 @@ public class Main {
 }
 
 // the rules are simple
-// either ther levels are all increasing or all decreasing
+// either their levels are all increasing or all decreasing
 // also any two adjacent levels differ by atleast 1 to 3
